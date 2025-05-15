@@ -2,7 +2,11 @@ Personal Portfolio Website
 
 Welcome to my **personal developer portfolio** — a fully responsive, visually rich, and functional single-page website that highlights my skills, projects, and professional background. Built with **HTML, CSS, JavaScript**, and powered by **Firebase**, this project demonstrates both design sensibility and front-end engineering capabilities.
 
+
+
 ![Preview Screenshot](https://github.com/AbhayMParmar/Personal-portfolio/blob/main/Personal%20Portfolio/img/photo.png?raw=true)
+
+
 
 ---
 
